@@ -33,6 +33,7 @@ public class Application {
     static final int WIDTH = 850;
     static final int HEIGHT = 300;
 
+
     /**
      * Main method to run the GUI.
      * @param args Command line arguments.
